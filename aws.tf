@@ -26,7 +26,7 @@ resource "aws_instance" "s2" {
   instance_type = "t2.micro"
 
   tags = {
-    Name = "bodal111"
+    Name = "bodal333"
   }
 }
 resource "aws_instance" "s3" {
